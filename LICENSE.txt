@@ -1,1 +1,2 @@
-this is only a example text file.
+This is only a example text file.
+
